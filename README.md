@@ -2,15 +2,15 @@
 
 This is a responsive React component that displays upcoming restaurant reservations using static JSON data.
 
-## 💻 Features
+## Features
 - Responsive design for both mobile and desktop.
 - Cancel button logs reservation ID to console.
 - Built with React and Tailwind CSS.
 
-## 🔧 Setup
+## Setup
 1. Clone the repo
 2. Run `npm install`
 3. Run `npm start`
 
-## 👨‍💻 Made by Ujwal Mahajan
+## Made by Ujwal Mahajan
 # upcoming-reservations
